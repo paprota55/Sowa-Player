@@ -1,0 +1,30 @@
+D:\warcaby\player\player\obj\Debug\player.csprojAssemblyReference.cache
+D:\warcaby\player\player\obj\Debug\player.Form1.resources
+D:\warcaby\player\player\obj\Debug\player.Properties.Resources.resources
+D:\warcaby\player\player\obj\Debug\player.csproj.GenerateResource.cache
+D:\warcaby\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+D:\warcaby\player\player\bin\Debug\bass.dll
+D:\warcaby\player\player\bin\Debug\Bass.Net.dll
+D:\warcaby\player\player\bin\Debug\Bass.Net.xml
+D:\warcaby\player\player\obj\Debug\player.csproj.CopyComplete
+C:\Users\Admin\Desktop\player\player\bin\Debug\bass.dll
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.Form1.resources
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\player\player\obj\Debug\player.csproj.CopyComplete
+D:\warcaby\player\player\bin\Debug\Sowa player.exe.config
+D:\warcaby\player\player\bin\Debug\Sowa player.exe
+D:\warcaby\player\player\bin\Debug\Sowa player.pdb
+D:\warcaby\player\player\obj\Debug\Sowa player.exe
+D:\warcaby\player\player\obj\Debug\Sowa player.pdb
+C:\Users\Admin\Desktop\player\player\bin\Debug\Sowa Player.exe.config
+C:\Users\Admin\Desktop\player\player\bin\Debug\Sowa Player.exe
+C:\Users\Admin\Desktop\player\player\bin\Debug\Sowa Player.pdb
+C:\Users\Admin\Desktop\player\player\obj\Debug\Sowa Player.exe
+C:\Users\Admin\Desktop\player\player\obj\Debug\Sowa Player.pdb
+C:\Users\Admin\Desktop\player\player\bin\Debug\Sowa Player.exe.manifest
+C:\Users\Admin\Desktop\player\player\bin\Debug\Sowa Player.application
+C:\Users\Admin\Desktop\player\player\obj\Debug\Sowa Player.exe.manifest
+C:\Users\Admin\Desktop\player\player\obj\Debug\Sowa Player.application
